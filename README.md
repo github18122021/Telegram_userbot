@@ -50,11 +50,6 @@ node index.js
 - **User Status Monitoring:** Retrieves and categorizes user statuses into online, recently online, etc.
 - **Command Handling:** Listens for specific commands from users and responds accordingly.
 
-### Commands
-
-- **/start:** Starts the bot and provides initial instructions.
-- **/status:** Retrieves the current status of all monitored users.
-
 ### Events
 
 The bot listens for the following events:
